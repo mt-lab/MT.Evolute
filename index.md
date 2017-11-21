@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## MT.Evolute
 
-You can use the [editor on GitHub](https://github.com/mt-evolute/ruweb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+MT.Evolute – модульный мобильный мехатронный комплекс, разработанный для изучения основ робототехники с возможностью доработки и внесения изменений в конструкцию с минимальными трудозатратами. Прежде всего, комплекс предназначен для использования студентами и школьниками старших классов в процессе их обучения. С помощью него обучающиеся имеют возможность в сжатые сроки создать собственный проект и самостоятельно изучить алгоритмы управления, процесс обработки данных с сенсоров, программирование управляющих микроконтроллеров.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Распространяется свободно
 
-### Markdown
+В эпоху современных технологий у каждого есть доступ к 3D-принтеру, будь то ваш личный принтер, либо в университетской лаборатории или расположенный в FABLAB. Таким образом, у вас есть возможность распечатать все детали на 3D-принтере в таком количестве, в котором вы пожелаете. Вы также имеете возможность создать собственные крепежные элементы в системе трехмерного моделирования и изготовить с помощью 3D-принтера.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Наша философия
 
-```markdown
-Syntax highlighted code block
+В MT.Evolute мы старались создать простую и удобную в использовании модульную конструкцию, свободно дополняемую разработанными вами креплениями. Также перед нами стояла задача избавить пользователя от необходимости применения множества винтов, болтов и других крепежных элементов, требующих специальных инструментов при сборке. Поэтому для установки различных сенсоров в головном модуле используются отверстия единого размера с одинаковым шагом между ними, в которые вставляются крепления и затем фиксируются универсальным штифтом. И все это изготавливается с помощью 3D-принтера, что учтено было в процессе разработки трехмерных моделей данного комплекса. Для быстрого доступа к управляющей электронике мы применили текстильную контактную ленту для установки крышки. Это дает возможность многократных манипуляций внутри головного модуля без ухудшения фиксирующих свойств ленты. Тот же подход мы использовали и при установке управляющего контроллера, что обеспечивает его быструю смену на другой. В итоге, вы не ограничиваете себя использованием фиксированного набора электроники и способны быстрее оттачивать свои навыки на практике.
 
-# Header 1
-## Header 2
-### Header 3
+### Подытжим
 
-- Bulleted
-- List
+MT.Evolute доступен каждому в некоммерческих целях, будь то начинающий изучение робототехники или опытный разработчик, которому необходимо использовать готовую платформу в своих целях. 
 
-1. Numbered
-2. List
+MT.Evolute разработан на [кафедре Мехатроники](http://mt.ifmo.ru) [университета ИТМО](http://ifmo.ru). Разработчики:
+- [Куприянов Дмитрий](http://kuprianov.su)
+- Мешков Алексей
+- Устюгов Иван
+- Лукин Александр
+- Скрипко Роман
+- Копьев Никита
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-[Link](complex.md)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mt-evolute/ruweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
