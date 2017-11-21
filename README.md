@@ -1,8 +1,3 @@
 # MT.Evolute
-Доступная робототехника
-Русская версия сайта.
-
-Осталось
-* Перенос разделов со старого сайта
-* Подбор фотоматериалов
-* Продумать варианты перехода на английскую версию
+Project's website.
+If you are looking for MT.Evolute itself, try checking nearby repos [here](https://github.com/mt-evolute).
