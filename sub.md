@@ -1,4 +1,5 @@
-<!doctype html>
+## Подписка/Subscription
+
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8" />
@@ -8,49 +9,6 @@
   </head>
   <body>
     
-
-    <!-- Start Top Bar -->
-    <div class="top-bar">
-      <div class="row">
-        <div class="top-bar-left">
-          <ul class="dropdown menu" data-dropdown-menu>
-            <li class="menu-text">MT.Evolute - открытый образовательный робототехнический комплекс</li>
-            
-            
-          </ul>
-        </div>
-        <div class="top-bar-right">
-          <ul class="menu">
-            <li><input type="search" placeholder="Search"></li>
-            <li><button type="button" class="button">Поиск</button></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <!-- End Top Bar -->
-    <br>
-    <!-- You can now combine a row and column if you just need a 12 column row -->
-    
-
-    <div class="row">
-      <div class="medium-6 columns">
-        <img class="thumbnail" src="/img/main.png">
-        <div class="row small-up-4">
-          <div class="column">
-            <img class="thumbnail" src="/img/head.PNG">
-          </div>
-          <div class="column">
-            <img class="thumbnail" src="/img/attach.PNG">
-          </div>
-          <div class="column">
-            <img class="thumbnail" src="/img/bat.PNG">
-          </div>
-          <div class="column">
-            <img class="thumbnail" src="/img/v2.PNG">
-          </div>
-        </div>
-      </div>
-      <div class="medium-6 large-5 columns">
         <h3>MT.Evolute</h3>
         <p>Пока ещё готовится к выходу в свет. Подписка на рассылку позволит узнать о выходе одними из первых</p>
 <div class="wrapper rounded6" id="templateContainer">
@@ -132,88 +90,7 @@ $.extend($.validator.messages, {
         </div>
     </div>
 
-    <div class="column row">
-      <hr>
-      <ul class="tabs" data-tabs id="example-tabs">
-        <li class="tabs-title is-active"><a href="#panel1" aria-selected="true">О проекте</a></li>
-        <li class="tabs-title"><a href="#panel2">Состав комплекса</a></li>
-		<li class="tabs-title"><a href="#panel3">Разработчики</a></li>
-      </ul>
-      <div class="tabs-content" data-tabs-content="example-tabs">
-        <div class="tabs-panel is-active" id="panel1">
-          <h4>О проекте</h4>
-          <div class="media-object stack-for-small">
-           Комплексное обучение робототехнике старшеклассников и студентов предполагает наличие на занятиях разнообразного современного оборудования, среди которого множество датчиков, управляющих контроллеров, двигателей, крепежных элементов и т.д. Такой набор должен отличаться совместимостью компонентов разных производителей, простотой и удобством использования как обучающимися, так и преподавателями. <br><br>
-Серьезной задачей является разработка такого универсального образовательного комплекса, который был бы совместим с основными популярными инструментами робототехники, а также позволил бы в перерывах между занятиями быстро изменять его конфигурацию под изучаемые на следующем этапе разделы робототехники. Решением данной проблемы призван стать разрабатываемый нашей командой универсальный образовательный комплекс MT.Evolute. <br><br>
-Разрабатываемый комплекс MT.Evolute предназначен, прежде всего, для проведения лабораторных и практических работ в качестве лабораторного оборудования при обучении студентов по направлению «Мехатроника и робототехника». Кроме того, он может применяться для обучения школьников старших классов основам робототехники. С помощью него обучающиеся имеют возможность в сжатые сроки создать собственный проект и самостоятельно изучить алгоритмы управления, процесс обработки данных с сенсоров, программирование управляющих микроконтроллеров. <br><br>
-
-          </div>
-          
-        </div>
-        <div class="tabs-panel" id="panel2">
-          
-            <h4>Состав базового набора комплекса</h4>
-          <div class="media-object stack-for-small">
-             <ul style="margin-left:20px;"> Базовый набор включает в себя следующие компоненты:
-<li>Корпус модуля головного;
-<li>Корпус модуля движения колесного;
-<li>Плату микроконтроллерную Arduino;
-<li>Плату макетную для монтажа без пайки;
-<li>Плату соединительную универсальную;
-<li>Четырех сервопривода;
-<li>Платы - расширения для управления двигателями;
-<li>Набор элементов крепления для электронных компонентов;
-<li>Сервопривод;
-<li>Модуль Bluetooth;
-<li>Акселерометр;
-<li>Инфракрасный приемник и передатчик;
-<li>Модуль слежения за линией;
-<li>Модуль ультразвуковой;
-<li>ИК-дальномер;
-<li>Датчик движения;
-<li>Датчик наклона;
-<li>Датчик касания;
-<li>Компас;
-<li>Фоторезистор;
-<li>Блок питания автономный;
-<li>Провода электрические;
-<li>Метизные изделия
-
-           </div>
-          </div>
-       
-<div class="tabs-panel" id="panel3">
-          
-            <h4>Разработчики</h4>
-          <div class="media-object stack-for-small">
-             <ul style="margin-left:20px;"> Комплекс разрабатывается аткивистами MT.lab - лаборатории кафедры Мехатроники Университета ИТМО
-<div class="column">
-            <div class="column">
-            <img  src="/img/mtlab.PNG" width="352" height="390">
-          </div>
-			<img  src="/img/mt.PNG" width=">
-          </div>
-          
-          <div class="column">
-            <img  src="/img/itmo_logo_white_rus.png" width="365" height="160">
-          </div>
-       
- 
-      </div>
-    </div>
-           
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row column">
-      <hr>
-      <ul class="menu">
-        <li>MT.Evolute</li>
-
-        <li class="float-right">Copyright 2017</li>
-      </ul>
-    </div>
+  
 
 
     
