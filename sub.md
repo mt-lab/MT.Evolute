@@ -5,13 +5,12 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>MT.Evolute | Доступная робототехника</title>
-    <link rel="stylesheet" href="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
   </head>
   <body>
     
         <h3>MT.Evolute</h3>
         <p>Пока ещё готовится к выходу в свет. Подписка на рассылку позволит узнать о выходе одними из первых</p>
-<div class="wrapper rounded6" id="templateContainer">
+
 	
 
 <!-- Begin MailChimp Signup Form -->
@@ -79,18 +78,6 @@ $.extend($.validator.messages, {
    
 
 
-		    </div>
-		</div>
-
-        
-		
-       
-
-    
-        </div>
-    </div>
-
-  
 
 
     
